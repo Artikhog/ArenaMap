@@ -1,7 +1,12 @@
 
 
 export class PositionConverter{
-    scale: any
+    scaleWidth: number;
+    scaleHeight: number;
+
     constructor() {
+
     }
+
+
 }

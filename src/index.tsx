@@ -11,5 +11,4 @@ const mapConfiguration: ArenaMapConfiguration = {
 const arenaMap = new ArenaMap(
     root,
     mapConfiguration,
-    {},
 );

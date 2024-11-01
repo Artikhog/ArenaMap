@@ -1,5 +1,5 @@
 import React, {FC} from 'react';
-import {MapObject} from "../model/MapObject";
+import {MapObject} from "../model/MapObjects/MapObject";
 
 interface ArenaMapProps {
     objects: Array<MapObject>;
@@ -7,9 +7,12 @@ interface ArenaMapProps {
 
 const ArenaMapComponent: FC<ArenaMapProps> = ({objects}) => {
 
-
     return (
-        <div>
+        <div
+            style={{
+
+            }}
+        >
 
         </div>
     );

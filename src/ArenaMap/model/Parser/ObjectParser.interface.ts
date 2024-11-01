@@ -1,4 +1,4 @@
-import {MapObject} from "../../model/MapObject";
+import {MapObject} from "../MapObjects/MapObject";
 
 
 export interface IObjectParser {
